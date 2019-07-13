@@ -1,2 +1,2 @@
 # landigpage
-creacon de una landing Page
+creacin de una landing Page
